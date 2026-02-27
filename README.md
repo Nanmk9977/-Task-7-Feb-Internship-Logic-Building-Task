@@ -32,6 +32,6 @@ Each solution demonstrates proper usage of:
 ### 👩‍💻 Author
 
 **Nandini M K**
-Data Science Internship – February 2026
+Internship – February 2026
 
 
