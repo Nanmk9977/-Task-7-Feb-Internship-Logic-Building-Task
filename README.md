@@ -21,17 +21,6 @@ Each solution demonstrates proper usage of:
 
 ---
 
-## 🧩 Implemented Problems
-
-✔ Smart Light Controller
-✔ Employee ID Card System
-✔ Mobile Contact Record
-✔ Product Price Tag Generator
-✔ Movie Rating Display System
-✔ Delivery Address Manager
-
----
-
 ## 🛠 Tech Stack
 
 * Python 3
